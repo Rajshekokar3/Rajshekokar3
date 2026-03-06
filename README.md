@@ -1,10 +1,13 @@
+---
 <h1 align="center">Hi 👋, I'm Raj Shekokar</h1>
-<h3 align="center">Data Science | Machine Learning | Python | Finance Enthusiast</h3>
+<h3 align="center">Data Scientist | Machine Learning Enthusiast | MBA Finance</h3>
 
 <p align="center">
-  <a href="https://github.com/Rajshekokar3">
-    <img src="https://komarev.com/ghpvc/?username=Rajshekokar3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Machine+Learning+Developer;Python+Programmer;Financial+Analytics+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rajshekokar3&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -13,23 +16,24 @@
 
 - 🎓 MBA Finance Student  
 - 📊 Passionate about **Data Science & Financial Analytics**
-- 🧠 Skilled in **Machine Learning, Python, SQL**
-- 📈 Interested in **Financial Markets & Data-driven decisions**
-- 💼 Currently working and improving my **Data Analytics & ML skills**
-- 📫 Reach me at **rajshekokar3@gmail.com**
+- 🧠 Skilled in **Python, Machine Learning, SQL**
+- 📈 Interested in **Stock Market & Financial Data Analysis**
+- 💡 Currently learning **Advanced ML & Financial Modeling**
+- 📫 Email: **rajshekokar3@gmail.com**
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rajshekokar/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40"/>
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://github.com/Rajshekokar3" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40"/>
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
+
 
 ---
 
