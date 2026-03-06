@@ -53,12 +53,11 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rajshekokar3&show_icons=true&theme=tokyonight"/>
-</p>
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajshekokar3&show_icons=true&theme=tokyonight)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshekokar3&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rajshekokar3&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshekokar3&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
