@@ -56,7 +56,8 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux,anaconda,sklearn,tensorflow,pytorch,docker,aws" />
-</p></p>
+<img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3" width="800"/>
+</p>
 ---
 ## 📈 GitHub Activity
 
