@@ -55,18 +55,31 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux,anaconda,sklearn,tensorflow,pytorch,docker,aws" />
+</p></p>
 ---
+## 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshekokar3&theme=tokyo-night"/>
+
+## 📊 Data Science Toolkit
+
+- Data Analysis → Pandas, NumPy
+- Machine Learning → Scikit-learn
+- Data Visualization → Tableau, Power BI
+- Programming → Python, SQL
+- Tools → Git, GitHub, VS Code
+
 
 ## 🚀 Featured Projects
 
-🔹 Financial Data Analysis  
-🔹 Machine Learning Prediction Models  
-🔹 Data Visualization Dashboards  
-🔹 Python Data Analysis Projects  
+🔹 **Financial Distress Prediction using Machine Learning**
 
----
+🔹 **Stock Market Data Analysis using Python**
+
+🔹 **Data Visualization Dashboard**
+
+🔹 **Customer Churn Prediction Model**
 
 ## 📈 Current Focus
 
